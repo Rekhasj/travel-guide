@@ -1,0 +1,25 @@
+.main-container {
+  height: 100vh;
+  padding: 20px;
+  background-color: #eef4f7;
+  background-size: cover;
+}
+.travel-heading {
+  font-size: 20px;
+  text-decoration: underline #52bbf0;
+  text-align: center;
+  color: #334155;
+}
+.loader {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}
+ul {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  width: 90%;
+}
