@@ -1,5 +1,5 @@
 .main-container {
-  height: 100vh;
+  height: 100%;
   padding: 20px;
   background-color: #eef4f7;
   background-size: cover;
@@ -20,6 +20,8 @@
 ul {
   list-style-type: none;
   display: flex;
+  justify-content: center;
+  align-items: center;
   flex-wrap: wrap;
   width: 90%;
 }
